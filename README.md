@@ -29,4 +29,4 @@ npm run build
 ```
 
 ### Demo 
-https://abdurrahmanekecik.com/3D
+https://abdurrahmanekecik.com/projects/3D
